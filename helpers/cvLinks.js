@@ -5,7 +5,11 @@ const links = [
     },
     {
         name: "Resume",
-        url: ""
+        url: "https://standardresume.co/r/1QEhLVedxRwha1Lmzxv9A"
+    },
+    {
+        name: "This Project",
+        url: "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv"
     },
     {
         name: "Email",

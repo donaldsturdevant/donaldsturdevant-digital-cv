@@ -1,10 +1,9 @@
 import CVLinks from "./cvLinks"
 import Selfie from "./selfie"
-import cvLinks from "@/helpers/cvLinks"
 
 const Header = () => {
     return (
-        <header className={"row mb-" + cvLinks.length}>
+        <header className="row mb-4 sticky">
             <div className="col-4">
                 <Selfie/>
             </div>
