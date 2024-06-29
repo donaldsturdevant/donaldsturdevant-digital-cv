@@ -2,30 +2,29 @@ import { useCallback, useEffect, useState } from "react"
 
 const useFeatures = () => {
     const [features, setFeatures] = useState([])
-    const fileName = './databaseCandidates/features.json'
+    const api = '/api/features'
 
     useEffect(() => {
-        const getFeatures = async (fileName) => {
-            const response = await fetch(fileName)
-            const json = await response.json()
-            const features = json.features
+        const getFeatures = async () => {
+            const response = await fetch(api, { method: "GET" })
+            const features = await response.json()
             setFeatures(features)
         }
         getFeatures()
     },[])
     
-    const safeToFile = async (fileName) => {
-        await fetch(fileName, {
-            method: "POST",
+    const saveFeatures = async (arr) => {
+        await fetch(api, { 
+            method: "POST", 
             headers: {
                 Accept: "application/json",
-                "Content-Type": "application/json"
+                "Content-Type": "application/json",
             },
-            body: JSON.stringify(features),
+            body: JSON.stringify({ "features": arr }), 
         })
     }
 
-    return { features, setFeatures }
+    return { features, setFeatures, saveFeatures }
 
 }
 

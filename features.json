@@ -13,10 +13,6 @@
             "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/e53fc0682b29faf8a93d8cef6466d6b91ddd7ab6"
         },
         {
-            "Description": "MessageCenter",
-            "Commit": ""
-        },
-        {
             "Description": "Feature/SkillsDemo list",
             "Commit": ""
         },
@@ -35,6 +31,14 @@
         {
             "Description": "Utilize an API call",
             "Commit": ""
+        },
+        {
+            "Description": "Test",
+            "Commit": ""
+        },
+        {
+            "Description": "MessageCenter",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/4ec6f7f705bdec000a4d4214228cd96e5dcf82ee"
         }
     ]
 }

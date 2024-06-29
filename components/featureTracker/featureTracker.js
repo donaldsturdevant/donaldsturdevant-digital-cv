@@ -4,20 +4,24 @@ import WishList from "./featureWishList"
 import useFeatures from "@/hooks/useFeatures"
 
 const FeatureTracker = () => {
-    const { features, setFeatures } = useFeatures()
+    const { features, setFeatures, saveFeatures } = useFeatures()
 
     const addFeature = (newFeature) => {
 
         if (features.map(x => x.Description).includes(newFeature)) return
-        setFeatures([...features, { Description: newFeature, Commit: "" }])
+        const newArr = [...features, { Description: newFeature, Commit: "" }]
+        setFeatures(newArr)
+        saveFeatures(newArr)
         
     }
 
     const commitFeature = (description, commit) => {
 
         if (!commit) return
-        setFeatures([...features.filter(x => x.Description !== description), { "Description": description, "Commit": commit }])
-        
+        const newArr = [...features.filter(x => x.Description !== description), { "Description": description, "Commit": commit }]
+        setFeatures(newArr)
+        saveFeatures(newArr)
+
     }
 
     return (
