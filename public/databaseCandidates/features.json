@@ -1,0 +1,40 @@
+{
+    "features": [
+        {
+            "Description": "Init project with node.js",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/cca4b34f4b42baaf39c8c73d11239e5ee92fdf6f"
+        },
+        {
+            "Description": "Basic Header component",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/e53fc0682b29faf8a93d8cef6466d6b91ddd7ab6"
+        },
+        {
+            "Description": "Ref image",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/e53fc0682b29faf8a93d8cef6466d6b91ddd7ab6"
+        },
+        {
+            "Description": "MessageCenter",
+            "Commit": ""
+        },
+        {
+            "Description": "Feature/SkillsDemo list",
+            "Commit": ""
+        },
+        {
+            "Description": "Persist Messages/Feature jsons short-term (write file)",
+            "Commit": ""
+        },
+        {
+            "Description": "Persist Messages/Feature jsons long-term (database)?",
+            "Commit": ""
+        },
+        {
+            "Description": "Carousel",
+            "Commit": ""
+        },
+        {
+            "Description": "Utilize an API call",
+            "Commit": ""
+        }
+    ]
+}

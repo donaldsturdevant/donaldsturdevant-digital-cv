@@ -1,0 +1,15 @@
+.title {
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+}
+
+.subtitle {
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+
+.wishlist {
+    max-height: 500px;
+}

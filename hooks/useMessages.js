@@ -5,10 +5,10 @@ const useMessages = () => {
 
     useEffect(() => {
         const getMessages = async () => {
-            let response = await fetch('./messages.json')
-            response = await response.json()
-            response = response.messages
-            setMessages(response)
+            const response = await fetch('./databaseCandidates/messages.json')
+            const json = await response.json()
+            const messages = json.messages
+            setMessages(messages)
         }
         getMessages()
     },[messages])

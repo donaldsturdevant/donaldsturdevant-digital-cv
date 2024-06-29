@@ -5,15 +5,17 @@ import Subject from "./subject"
 const MessageList = ({selectMessage}) => {
     const { messages } = useMessages()
 
+    if (messages === undefined || messages.length === 0) return
+
     return (
         <div>
-            <table className={"table table-hover " + style.messages}>
+            <table className={"table table-hover table-sm " + style.messages}>
                 <thead>
                     <tr>
-                        <td>To</td>
-                        <td>From</td>
-                        <td>Subject</td>
-                        <td>Date</td>
+                        <th>To</th>
+                        <th>From</th>
+                        <th>Subject</th>
+                        <th>Date</th>
                     </tr>
                 </thead>
                 <tbody>

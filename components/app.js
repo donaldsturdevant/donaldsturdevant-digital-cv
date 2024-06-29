@@ -1,14 +1,13 @@
 import Header from "./header/header"
 import MessageCenter from "./messageCenter/messageCenter"
-import headerStyle from "./header/header.module.css"
-import text from "@/helpers/text"
+import FeatureTracker from "./featureTracker/featureTracker"
 
 const App = () => {
     return (
         <>
-            <Header/>
-            <h3><div className={"col-12 " + headerStyle.title}>{text.title}</div></h3>
-            <MessageCenter/>
+            <Header />
+            <MessageCenter />
+            <FeatureTracker />
         </>
     )
 }

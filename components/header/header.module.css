@@ -5,7 +5,12 @@
 }
 
 .title {
-    font-size: x-large;
+    font-size: xx-large;
     font-weight: bold;
     text-align: center;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
 }
