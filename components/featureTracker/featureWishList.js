@@ -18,7 +18,7 @@ const WishList = ({features, addFeature, commitFeature}) => {
 
     return (
         <>
-            <h3 className={"mb-3 " + style.subtitle}>WishList</h3>
+            <h3 className={"mb-3 " + style.subtitle}>ToDo/WishList</h3>
             <FeatureAdd addFeature={addFeature} />
             <div className={"list-group overflow-auto shadow pt-1 container " + style.wishlist}>
                 {wishList !== undefined ? wishList.map(feature => (

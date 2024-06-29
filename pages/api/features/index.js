@@ -13,6 +13,7 @@ export default async function handler(req, res) {
 
     console.log(method)
     console.log(body)
+    console.log(jsonFile)
 
     switch (method) {
         case "GET":
