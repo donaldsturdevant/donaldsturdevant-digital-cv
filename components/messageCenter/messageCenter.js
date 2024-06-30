@@ -9,12 +9,12 @@ const MessageCenter = () => {
 
     return (
         <>
-            <div className={"container ps-5 pe-5 mb-5 " + style.outline}>
-                <h2 className={"container mt-2 " + style.title}>Message Center</h2>
-                <div className="col-12 mt-3">
+            <div className={"container mb-4 " + style.outline}>
+                <h2 className={"my-3 " + style.title}>Message Center</h2>
+                <div className="container">
                     <div className="row">
-                        <div className="col align-top pt-5 ps-3 pe-3"><MessageList selectMessage={setSelectedMessage} /></div>
-                        <div className="col p-5"><Button selectedMessage={selectedMessage} selectMessage={setSelectedMessage}/><MessageDisplay selectedMessage={selectedMessage}/></div>
+                        <div className="col align-top"><MessageList selectMessage={setSelectedMessage} /></div>
+                        <div className="col-lg"><Button selectedMessage={selectedMessage} selectMessage={setSelectedMessage}/><MessageDisplay selectedMessage={selectedMessage}/></div>
                     </div>
                 </div>
             </div>

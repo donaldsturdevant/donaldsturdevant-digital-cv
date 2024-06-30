@@ -129,8 +129,16 @@
             "Commit": ""
         },
         {
-            "Description": "Deploy page and make it look good on mobile",
+            "Description": "Fix carousel buttons to always be visible",
             "Commit": ""
+        },
+        {
+            "Description": "Fix color issue on mobile",
+            "Commit": ""
+        },
+        {
+            "Description": "Deploy page and make it look good on mobile",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/c3cdab9b6ea1944df8809e212be15c2b73b2baad"
         }
     ]
 }
