@@ -5,17 +5,19 @@ import texts from "@/helpers/texts"
 
 const Header = () => {
     return (
-        <>
-            <header className="row mb-4">
-                <div className="col-4">
-                    <Selfie/>
-                </div>
-                <div className="col-8">
-                    <CVLinks/>
+        <div className="container">
+            <header className="mb-4">
+                <div className="row">
+                    <div className="col-3 child">
+                        <Selfie/>
+                    </div>
+                    <div className="col child">
+                        <CVLinks/>
+                    </div>
                 </div>
             </header>
-            <h1><div className={"col-12 mb-5 " + style.title}>{texts.title}</div></h1>
-        </>
+            <h1><div className={"mb-5 " + style.title}>{texts.title}</div></h1>
+        </div>
     )
 }
 

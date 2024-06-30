@@ -25,11 +25,11 @@ const FeatureTracker = () => {
     }
 
     return (
-        <div className={"col-12 mb-5 container "}>
+        <div className={"container mb-5"}>
             <h2 className={"mb-3 " + style.title}>Feature/SkillsDemonstration Tracker</h2>
             <div className="row">
-                <div className="child col-7"><DoneList features={features} /></div>
-                <div className="child col-5"><WishList features={features} addFeature={addFeature} commitFeature={commitFeature} /></div>
+                <div className="container col"><DoneList features={features} /></div>
+                <div className="container col"><WishList features={features} addFeature={addFeature} commitFeature={commitFeature} /></div>
             </div>
         </div>
     )

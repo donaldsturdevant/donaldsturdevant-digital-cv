@@ -3,7 +3,7 @@ import headerStyle from "./header.module.css"
 
 const Selfie = () => {
     return (
-        <img src="./images/Selfie.jpg" alt="selfie" className={headerStyle.selfie} />
+        <img src="./images/selfie.jpg" alt="selfie" className={headerStyle.selfie} />
     )
 }
 

@@ -5,12 +5,12 @@ import AboutMe from "./aboutMe/aboutMe"
 
 const App = () => {
     return (
-        <>
+        <div className="container">
             <Header />
             <MessageCenter />
             <FeatureTracker />
             <AboutMe />
-        </>
+        </div>
     )
 }
 

@@ -17,10 +17,6 @@
             "Commit": ""
         },
         {
-            "Description": "Carousel",
-            "Commit": ""
-        },
-        {
             "Description": "MessageCenter",
             "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/4ec6f7f705bdec000a4d4214228cd96e5dcf82ee"
         },
@@ -106,6 +102,34 @@
         },
         {
             "Description": "Add Tests!!!",
+            "Commit": ""
+        },
+        {
+            "Description": "Carousel",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/b45fd4f26360b7151e39b3bea0cd57e631686172"
+        },
+        {
+            "Description": "Embed LED Project clips",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/b45fd4f26360b7151e39b3bea0cd57e631686172"
+        },
+        {
+            "Description": "Input validation",
+            "Commit": ""
+        },
+        {
+            "Description": "Error catching and error response in api",
+            "Commit": ""
+        },
+        {
+            "Description": "Learn about TypeScript",
+            "Commit": ""
+        },
+        {
+            "Description": "Key response \"enter\" to add items and complete them",
+            "Commit": ""
+        },
+        {
+            "Description": "Deploy page and make it look good on mobile",
             "Commit": ""
         }
     ]

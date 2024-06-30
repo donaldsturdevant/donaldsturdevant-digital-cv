@@ -8,10 +8,10 @@ const AboutMe = () => {
         <>
             <div className={"container ps-5 pe-5 mb-5"}>
                 <h2 className={"mt-2 " + style.title}>About Me</h2>
-                <div className="row">
+                <div>
                     <AboutMeCarousel />
                 </div>
-                <div className="row">
+                <div>
                     <LEDProject />
                 </div>
             </div>

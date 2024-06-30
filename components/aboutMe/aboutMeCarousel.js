@@ -7,7 +7,7 @@ import style from "./aboutMe.module.css"
 // bootstrap is handling it. I'll have to come back to it.
 const AboutMeCarousel = () => {
     return (
-        <>
+        <div className="container">
             <h3 className={"mt-4 mb-3 " + style.subtitle}>...Because every first web project needs a carousel...</h3>
             <div id="aboutMe" className="carousel slide carousel-fade carousel-dark" data-bs-ride="carousel">
                 <div className="carousel-indicators">
@@ -48,7 +48,7 @@ const AboutMeCarousel = () => {
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>
-        </>
+        </div>
     )
 }
 
