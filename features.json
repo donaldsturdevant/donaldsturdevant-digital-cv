@@ -37,10 +37,6 @@
             "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/b75e11a87ee6ea59a806c930d551b542056ed2b7"
         },
         {
-            "Description": "Ability to remove items",
-            "Commit": ""
-        },
-        {
             "Description": "Ability to remove feature list items",
             "Commit": ""
         },
@@ -61,10 +57,6 @@
             "Commit": ""
         },
         {
-            "Description": "Ability to send messages",
-            "Commit": ""
-        },
-        {
             "Description": "Ability to compose/post messages",
             "Commit": ""
         },
@@ -78,6 +70,42 @@
         },
         {
             "Description": "Add \"requested by\" to feature ToDo list",
+            "Commit": ""
+        },
+        {
+            "Description": "Loading icon and loading state",
+            "Commit": ""
+        },
+        {
+            "Description": "Animations/fade_in/fade_out effects",
+            "Commit": ""
+        },
+        {
+            "Description": "More color, pretty-ize the page in general",
+            "Commit": ""
+        },
+        {
+            "Description": "Popup form (compose message?)",
+            "Commit": ""
+        },
+        {
+            "Description": "Passing context",
+            "Commit": ""
+        },
+        {
+            "Description": "Navigation functionality",
+            "Commit": ""
+        },
+        {
+            "Description": "Routing and sub-urls",
+            "Commit": ""
+        },
+        {
+            "Description": "Exponential backoff for posting and external notifications",
+            "Commit": ""
+        },
+        {
+            "Description": "Add Tests!!!",
             "Commit": ""
         }
     ]
