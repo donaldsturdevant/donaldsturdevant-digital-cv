@@ -1,0 +1,28 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "To": "Simplot",
+            "From": "Don",
+            "Subject": "Shameless Appeal",
+            "Date": "2024-06-27 12:30PM",
+            "Body": "Dear Simplot,\n\nLet's address the elephant in the room; My CV has some holes in it. So, thank you so much for the interview opportunity.\n\nThe purpose of this React page is three-fold:\n1. Demonstrate that I can spin up quickly when learning something new\n2. I can do so without slowing down your team (no hand holding)\n3. Maybe put a small patch in the CV holes at the same time?\n(4. Learn something NEW and have fun doing it!)\n\nPlease note (for context): When we scheduled our interview, as of June 19th, I had precisely zero experience in React, and only minimal JavaScript exposure. I also had an incredibly busy week June 24-28. I won't bore you with the details, but the bottom line is, I didn't get to spend as much time as I wanted on this project before we meet.\n\nI'm sure there are things in this app that scream \"NEWBIE!\" (of course I welcome all feedback if you felt inclined) but my hope is that the context and the relatively small amount of time I had to do this counts for something :)\n\nEnjoy the page, there are lots of pointless components just for demonstration purposes, feel free to click through them if you want or just not waste your time at all.\n\nThat's all I want to say for now. I look forward to meeting you."
+        },
+        {
+            "id": 2,
+            "To": "John Smith",
+            "From": "Jane Smith",
+            "Subject": "Just another message",
+            "Date": "2024-06-28 1:30PM",
+            "Body": "Just another message to display\n\nstuff...\nand...\nthings..."
+        },
+        {
+            "id": 3,
+            "To": "The world",
+            "From": "The wordless man",
+            "Subject": "It's empty",
+            "Date": "2024-06-28 12:15PM",
+            "Body": ""
+        }
+    ]
+}

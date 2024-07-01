@@ -1,0 +1,14 @@
+.selfie {
+    height: 160px;
+}
+
+.title {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}

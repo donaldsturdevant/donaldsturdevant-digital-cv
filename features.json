@@ -1,0 +1,144 @@
+{
+    "features": [
+        {
+            "Description": "Init project with node.js",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/cca4b34f4b42baaf39c8c73d11239e5ee92fdf6f"
+        },
+        {
+            "Description": "Basic Header component",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/e53fc0682b29faf8a93d8cef6466d6b91ddd7ab6"
+        },
+        {
+            "Description": "Ref image",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/e53fc0682b29faf8a93d8cef6466d6b91ddd7ab6"
+        },
+        {
+            "Description": "Persist Messages/Feature jsons long-term (database)?",
+            "Commit": ""
+        },
+        {
+            "Description": "MessageCenter",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/4ec6f7f705bdec000a4d4214228cd96e5dcf82ee"
+        },
+        {
+            "Description": "Feature/SkillsDemo list",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/2d3b8fab73c2cbb7b2bf9fc2e161d9a76450fbcf"
+        },
+        {
+            "Description": "Persist Messages/Feature jsons short-term (write file)",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/b75e11a87ee6ea59a806c930d551b542056ed2b7"
+        },
+        {
+            "Description": "Utilize an API call",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/b75e11a87ee6ea59a806c930d551b542056ed2b7"
+        },
+        {
+            "Description": "Ability to remove feature list items",
+            "Commit": ""
+        },
+        {
+            "Description": "Add feature component and move selected state to that",
+            "Commit": ""
+        },
+        {
+            "Description": "Add message component and move selected state to that",
+            "Commit": ""
+        },
+        {
+            "Description": "Fix scroll issue with todo items on click",
+            "Commit": ""
+        },
+        {
+            "Description": "Add message read/unread state and font change",
+            "Commit": ""
+        },
+        {
+            "Description": "Ability to compose/post messages",
+            "Commit": ""
+        },
+        {
+            "Description": "External (email/text) dev when message/feature posts",
+            "Commit": ""
+        },
+        {
+            "Description": "Some form of login to open feedback/requests from LinkedIn",
+            "Commit": ""
+        },
+        {
+            "Description": "Add \"requested by\" to feature ToDo list",
+            "Commit": ""
+        },
+        {
+            "Description": "Loading icon and loading state",
+            "Commit": ""
+        },
+        {
+            "Description": "Animations/fade_in/fade_out effects",
+            "Commit": ""
+        },
+        {
+            "Description": "More color, pretty-ize the page in general",
+            "Commit": ""
+        },
+        {
+            "Description": "Popup form (compose message?)",
+            "Commit": ""
+        },
+        {
+            "Description": "Passing context",
+            "Commit": ""
+        },
+        {
+            "Description": "Navigation functionality",
+            "Commit": ""
+        },
+        {
+            "Description": "Routing and sub-urls",
+            "Commit": ""
+        },
+        {
+            "Description": "Exponential backoff for posting and external notifications",
+            "Commit": ""
+        },
+        {
+            "Description": "Add Tests!!!",
+            "Commit": ""
+        },
+        {
+            "Description": "Carousel",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/b45fd4f26360b7151e39b3bea0cd57e631686172"
+        },
+        {
+            "Description": "Embed LED Project clips",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/b45fd4f26360b7151e39b3bea0cd57e631686172"
+        },
+        {
+            "Description": "Input validation",
+            "Commit": ""
+        },
+        {
+            "Description": "Error catching and error response in api",
+            "Commit": ""
+        },
+        {
+            "Description": "Learn about TypeScript",
+            "Commit": ""
+        },
+        {
+            "Description": "Key response \"enter\" to add items and complete them",
+            "Commit": ""
+        },
+        {
+            "Description": "Fix carousel buttons to always be visible",
+            "Commit": ""
+        },
+        {
+            "Description": "Deploy page and make it look good on mobile",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/c3cdab9b6ea1944df8809e212be15c2b73b2baad"
+        },
+        {
+            "Description": "Fix color issue on mobile",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/ea0100da53692bae2c398fd1eca8327540b45999"
+        }
+    ]
+}
