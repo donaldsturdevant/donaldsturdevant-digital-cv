@@ -139,6 +139,14 @@
         {
             "Description": "Fix color issue on mobile",
             "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/ea0100da53692bae2c398fd1eca8327540b45999"
+        },
+        {
+            "Description": "Fix carousel on mobile",
+            "Commit": ""
+        },
+        {
+            "Description": "Automate deployment to NAS upon github merge to main branch",
+            "Commit": ""
         }
     ]
 }

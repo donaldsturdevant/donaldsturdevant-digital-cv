@@ -26,7 +26,7 @@ const MessageDisplay = ( { selectedMessage } ) => {
             </>
         )
     } else {
-        return ""
+        return <div className="container h-100"><div className="row align-items-center h-100"><p className="text-center">Select a message to view it</p></div></div>
     }
 }
 
