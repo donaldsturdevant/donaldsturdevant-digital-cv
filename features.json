@@ -133,12 +133,12 @@
             "Commit": ""
         },
         {
-            "Description": "Fix color issue on mobile",
-            "Commit": ""
-        },
-        {
             "Description": "Deploy page and make it look good on mobile",
             "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/c3cdab9b6ea1944df8809e212be15c2b73b2baad"
+        },
+        {
+            "Description": "Fix color issue on mobile",
+            "Commit": "https://github.com/donaldsturdevant/donaldsturdevant-digital-cv/commit/ea0100da53692bae2c398fd1eca8327540b45999"
         }
     ]
 }

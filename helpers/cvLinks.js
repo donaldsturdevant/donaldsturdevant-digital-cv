@@ -5,7 +5,7 @@ const links = [
     },
     {
         name: "Resume",
-        url: "https://standardresume.co/r/1QEhLVedxRwha1Lmzxv9A"
+        url: "https://gofile.me/7qNmL/nuBVFxN83"
     },
     {
         name: "This Project",
